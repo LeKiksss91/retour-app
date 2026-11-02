@@ -2,11 +2,11 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-[#F7F3EC] text-[#1A1A17]">
       <div className="mx-auto max-w-xl px-5 pb-16 pt-10">
-        <p className="text-sm font-semibold uppercase tracking-widest text-[#1F4D3A]">
+        <p className="text-sm font-semibold uppercase tracking-widest text-[#1A1A17]">
           Retour
         </p>
 
-        <h1 className="mt-6 text-4xl font-extrabold leading-tight text-[#1F4D3A] sm:text-5xl">
+        <h1 className="mt-6 text-4xl font-extrabold leading-tight text-[#1A1A17] sm:text-5xl">
           Vos clients satisfaits reviennent. À condition qu’on leur rappelle.
         </h1>
 
@@ -16,7 +16,7 @@ export default function Home() {
         </p>
 
         <div className="mt-8 rounded-sm border-2 border-[#1F4D3A] bg-white p-5">
-          <p className="text-xs font-semibold uppercase tracking-widest text-[#1F4D3A]">
+          <p className="text-xs font-semibold uppercase tracking-widest text-[#1A1A17]">
             Exemple
           </p>
           <p className="mt-2 text-lg leading-relaxed">
@@ -31,7 +31,7 @@ export default function Home() {
 
         <ul className="mt-10 space-y-6">
           <li>
-            <h2 className="text-xl font-bold text-[#1F4D3A]">
+            <h2 className="text-xl font-bold text-[#1A1A17]">
               Rien à tenir à jour
             </h2>
             <p className="mt-1 leading-relaxed">
@@ -40,7 +40,7 @@ export default function Home() {
             </p>
           </li>
           <li>
-            <h2 className="text-xl font-bold text-[#1F4D3A]">
+            <h2 className="text-xl font-bold text-[#1A1A17]">
               Le rappel part au bon moment
             </h2>
             <p className="mt-1 leading-relaxed">
@@ -49,7 +49,7 @@ export default function Home() {
             </p>
           </li>
           <li>
-            <h2 className="text-xl font-bold text-[#1F4D3A]">
+            <h2 className="text-xl font-bold text-[#1A1A17]">
               Vous voyez ce que ça rapporte
             </h2>
             <p className="mt-1 leading-relaxed">
